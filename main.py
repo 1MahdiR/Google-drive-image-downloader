@@ -4,7 +4,7 @@
 # Download images from Google drive
 #
 # Script is available on github
-# GITHUB:
+# GITHUB: https://github.com/1MahdiR/Google-drive-image-downloader
 #
 
 import sys
